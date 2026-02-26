@@ -15,7 +15,7 @@ class CW1 {
             arr.add(sc.nextInt());
         }
 
-        System.out.println("Array List are : ");
+        System.out.println("Array List is : ");
         System.out.println(arr);
 
     }
